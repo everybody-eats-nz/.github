@@ -6,18 +6,6 @@ We're building and maintaining the digital infrastructure that supports Everybod
 
 Everybody Eats operates pay-as-you-feel restaurants where everyone is welcome, regardless of their ability to pay. Our volunteer tech team helps make this mission possible by building and maintaining the digital tools that support operations, volunteer coordination, and community engagement.
 
-## 🛠️ Our Repositories
-
-### Active Projects
-- **volunteer-portal** - Web application for volunteer registration, scheduling, and coordination
-- **kitchen-ops** - Tools for kitchen operations and meal planning
-- **website** - Public-facing website and information hub
-- _(Add your repos as they're created)_
-
-### Documentation
-- **volunteer-handbook** - Team processes, ways of working, and onboarding guides
-- **.github** (this repo) - Organization-wide templates and documentation
-
 ## 🤝 How to Get Involved
 
 We're always looking for volunteers with skills in:
